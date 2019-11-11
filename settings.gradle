@@ -1,0 +1,3 @@
+rootProject.name='JustLean'
+include ':app'
+include ':core'
